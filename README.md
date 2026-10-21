@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=600&size=25&duration=3000&pause=800&color=F7C63D&background=8B8B8B00&vCenter=true&width=435&lines=Welcome+%F0%9F%91%8B;Check+out+my+repos+%E2%98%BA%EF%B8%8F)](https://git.io/typing-svg)
-
-## Aspiring SOC Analyst | Cybersecurity & Blue Team
+# Aspiring SOC Analyst | Cybersecurity & Blue Team
 
 ## About Me 👨
 
