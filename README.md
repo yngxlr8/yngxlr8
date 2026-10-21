@@ -6,6 +6,8 @@ I'm currently learning cybersecurity, with a focus on
 Security Operations (SOC), threat detection, and incident investigation.
 I'm building practical cybersecurity projects in my home lab.
 
+I have hands-on experience with Windows Event Logs, Linux administration, network traffic analysis, and PowerShell scripting through my projects.
+
 My goal is to become a Junior SOC Analyst. 
 
 ## Projects 👨‍🔬
