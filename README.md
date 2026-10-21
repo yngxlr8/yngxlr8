@@ -12,7 +12,7 @@ My goal is to become a Junior SOC Analyst.
 
 ## Projects 👨‍🔬
 
-### Home-Security-Lab-02 - Windows Security Investigation
+### Home Security Lab 02 - Windows Security Investigation
 
 A practical investigation of Windows authentication events,
 TCP connections, firewall activity, PowerShell logging,
