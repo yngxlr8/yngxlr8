@@ -13,6 +13,14 @@ My goal is to become a Junior SOC Analyst.
 
 ## Projects 👨‍🔬
 
+### Home Security Lab 01 - Linux Services & Network Traffic
+
+An investigation of SSH authentication, nginx HTTP activity, open ports,
+and TCP traffic on an Ubuntu Server. I correlated Linux service and process
+information with Nmap results, server logs, and Wireshark packet captures.
+
+[View Project](https://github.com/yngxlr8/Home-Security-Lab-01)
+
 ### Home Security Lab 02 - Windows Security Investigation
 
 A practical investigation of Windows authentication events,
